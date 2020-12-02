@@ -135,7 +135,7 @@ namespace task8
                 return Re + "" + Im + "*i";
             else
                 return Re + "+" + Im + "*i";
-        }
+        }ы
     }
 }
     
